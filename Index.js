@@ -32,7 +32,7 @@ global.Fca = new Object({
       "Uptime": true,
       "Config": "default",
       "DevMode": false,
-      "Login2Fa": fasle,
+      "Login2Fa": false,
       "AutoLogin": false,
       "BroadCast": true,
       "AuthString": "",
